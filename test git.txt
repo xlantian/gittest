@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-master branch hhh
+master branch 
 =======
 real sq branch
 >>>>>>> sq
